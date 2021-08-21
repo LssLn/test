@@ -1,0 +1,28 @@
+0 ORTOFRUTTA E ORTAGGI
+1 SALUMI E PROSCIUTTI
+2 FORMAGGI MOZZARELLE E YOGURT
+3 ALCOLICI
+4 STUZZICHERIA E PRODOTTI FORNO
+5 BEVANDE
+----
+6 BISCOTTI BRIOCHINE SUCCHI DI FRUTTA
+7 DROGHERIA latte zucchero nutella marmellata etc
+8 PREPARAZIONE (UOVA FARINA OLIO ACETO) E LEGUMI
+9 SOTTOLIO 
+
+10 Salse e condimenti
+11 SURGELATI verdure
+11 drogheria 2 (bustine per dolci, cioccolato, frutte sciroppate)
+12 RISO E PASTA
+13 COSE PER CUCINA tovaglioli posate fazzoletti bicchieri
+14 DETERSIVI per la casa
+
+
+16 gastronomia e macelleria
+16 spezie
+
+17 acqua e comparto utilità (casta forno, stagnola)
+18 detersivi per bucato
+19 surgelati 2 (patatine sofficini pesce)
+20 reparto igiene
+21 CEREALI
